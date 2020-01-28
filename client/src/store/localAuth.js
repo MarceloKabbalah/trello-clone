@@ -9,6 +9,7 @@ const actions = {
       }, { root: true }).then(async () => {
         router.push('/boards');
       }).catch((e) => {
+        // eslint-disable-next-line no-console
         console.error('Authentication error', e);
       });
     }

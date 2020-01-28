@@ -5,7 +5,6 @@
 * [X] Add local auth to server
 * [X] Add vuetify to client
 * [X] Add feathers-vuex to client
-* [] Add login to client 
 * [] Add boards service to server
 * [] User can create/list/view boards on client
   * [] Create
